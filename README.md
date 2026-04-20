@@ -87,19 +87,6 @@ The main objectives of this project are:
 - To implement secure environment variable management  
 - To build intelligent conversational applications  
 
----
-
-## 📸 Screenshots
-
-(Add screenshots of your Telegram bot conversation here)
-
----
-
-## 🌐 Live Demo
-
-(You can share your Telegram bot link here if public)
-
----
 
 ## 📌 Future Enhancements
 
